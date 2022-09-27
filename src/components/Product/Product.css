@@ -1,0 +1,57 @@
+.cart {
+
+    width: 300px;
+    height: 510px;
+    border: 2px solid goldenrod;
+    border-radius: 7px;
+    box-shadow: 5px 4px 6px white;
+
+}
+
+.cart img {
+
+    width: 270px;
+    margin: 12px;
+    padding: 5px;
+    border-radius: 20px;
+
+}
+
+.menu {
+
+    margin-left: 15px;
+}
+
+.menu p {
+
+    font-size: 20px;
+}
+
+.btn-style {
+
+    width: 100%;
+    background-color: coral;
+    border-radius: 10px;
+    border: none;
+}
+
+.btn-style:hover {
+
+    background-color: #C70039;
+}
+
+.text {
+
+    color: white;
+    font-size: 17px;
+    margin-right: 7px;
+
+}
+
+.btn-style {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

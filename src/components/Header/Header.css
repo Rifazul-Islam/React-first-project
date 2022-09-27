@@ -1,0 +1,27 @@
+.header {
+
+    background-color: black;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.text-style {
+
+    color: crimson
+}
+
+.navber a {
+
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 23px;
+    color: white;
+}
+
+.navber a:hover {
+
+    color: blueviolet;
+}
